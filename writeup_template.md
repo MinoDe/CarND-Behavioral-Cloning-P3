@@ -30,6 +30,15 @@ The goals / steps of this project are the following:
 ###Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/432/view) individually and describe how I addressed each point in my implementation.  
 
 ---
+###Pointers
+---
+####1. analyzing images
+####2. Using left and right camera angles with approximate angles
+####3. Running a simple model with one Convolutional network, a flatten layer and a Dense layer. Describe the output. Describe image preprocessing and why.
+####4. Tried using NVIDIA CNN architecture. Describe the layers and about dropout
+####5. Tried comma.ai architecture.
+####6. Precautions - dropout, image preprocessing, recovery lap, etc
+####7. Other tests and trials done to see how the model performs. Using HSV while training and YUV while driving. What are the problems involved. 
 ###Files Submitted & Code Quality
 
 ####1. Submission includes all required files and can be used to run the simulator in autonomous mode
